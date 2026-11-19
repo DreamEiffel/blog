@@ -1,0 +1,7 @@
+# 只部署站点运行所需文件，源素材不入库
+media/hero-src.mp4
+media/Cinematic_dark_hero_background_*.png
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
